@@ -1,2 +1,4 @@
 
 hello my friend
+
+Adding another line to modify test
